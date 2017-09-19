@@ -21,4 +21,4 @@ nginx-proxy:
     nginx:
       conf:
         servername: "kibana"
-upstream_port: 5601
+        upstream_port: 5601

@@ -1,5 +1,4 @@
-name: Kibana
-description: |
-  Kibana5.5.2
-version: 5.5.2
+name: "Kibana 5"
+description: "Visualization dashboard"
+version: "5.5.2"
 category: ELK
