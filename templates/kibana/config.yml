@@ -1,5 +1,5 @@
-name: Elasticsearch5.5.2
+name: Kibana5.5.2
 description: |
-  Elasticsearch, you know!
+  Kibana5.5.2
 version: 5.5.2
 category: ELK
