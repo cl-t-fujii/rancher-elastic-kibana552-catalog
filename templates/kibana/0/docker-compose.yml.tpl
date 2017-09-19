@@ -30,4 +30,4 @@ kibana5:
   environment:
     ELASTICSEARCH_URL: "http://elasticsearch:9200"
   labels:
-io.rancher.container.hostname_override: container_name
+    io.rancher.container.hostname_override: container_name
